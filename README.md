@@ -1,4 +1,4 @@
-# Go programming language unit test
+# Go programming language - Unit test
 
 ## Packages
 
@@ -39,5 +39,5 @@ go test gotest/services -bench=BenchmarkLogin
 go test gotest/services -bench=BenchmarkLogin -benchmem
 ```
 
-# More info
+## More info
 [https://blog.logrocket.com/benchmarking-golang-improve-function-performance/](https://blog.logrocket.com/benchmarking-golang-improve-function-performance/)
